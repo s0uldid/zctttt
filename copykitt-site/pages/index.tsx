@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>ZCT-project | ____</title>
+        <title>CopyKitt Tutorial | AI Generated Marketing</title>
         <meta
           name="description"
           content="Generate branding snippets for your product."
