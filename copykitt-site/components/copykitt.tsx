@@ -2,7 +2,7 @@ import React from "react";
 import Form from "./form";
 import Results from "./results";
 import Image from "next/image";
-import logo from "../public/copykittLogo.svg";
+import logo from "../public/copykittLogo.png";
 
 const CopyKitt: React.FC = () => {
   const CHARACTER_LIMIT: number = 32;
